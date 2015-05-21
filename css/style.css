@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+body{background-color:#2B7AC8;}
+img{
+	height:75px;
+	width:auto;;
+}
+header .jumbotron{
+	background-color:#F8F8F8;
+	height:100px;
+	padding-right:20px;
+}
+nav{
+	padding-right:15px;
+}
+.contenu{
+	margin-top:100px;
+	padding:25px;
+}
+.contenu .jumbotron{
+	background-color:rgba(248,248,248,0.5);
+	margin:150px 5% 0 5%;
+	padding:5%;
+	text-align:center;
+}
+.alert{
+	margin:0 5% 0 5%;
+}
+.menu .jumbotron{
+	margin:100px 0 0 0;
+	padding:0;
+}
